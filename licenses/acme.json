@@ -1,0 +1,13 @@
+{
+  "customer_id": "acme",
+  "subscription": "Professional",
+  "tpaks_included": [],
+  "tpaks_addons": [
+    "ENC"
+  ],
+  "seats": 100,
+  "sale_ids": [
+    "test_001"
+  ],
+  "last_update_utc": "2025-09-30T23:15:30.290Z"
+}
