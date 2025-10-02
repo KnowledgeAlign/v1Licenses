@@ -1,0 +1,15 @@
+{
+  "customer_id": "dcote",
+  "subscription": "Essentials",
+  "tpaks_included": [
+    "ACC"
+  ],
+  "tpaks_addons": [
+    "CLD"
+  ],
+  "seats": null,
+  "sale_ids": [
+    "test_1759430682745"
+  ],
+  "last_update_utc": "2025-10-02T18:44:42.940Z"
+}
