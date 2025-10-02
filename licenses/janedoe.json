@@ -1,0 +1,17 @@
+{
+  "customer_id": "janedoe",
+  "subscription": "Premier",
+  "tpaks_included": [
+    "ACC",
+    "APP",
+    "ASM",
+    "BRM",
+    "CLD"
+  ],
+  "tpaks_addons": [],
+  "seats": null,
+  "sale_ids": [
+    "test_1759426808074"
+  ],
+  "last_update_utc": "2025-10-02T17:40:08.515Z"
+}
